@@ -1,7 +1,5 @@
 # Diep.io WASM Patch
 
-Preview:
-
 ![Preview](https://github.com/DDatiOSCheat/DiepWASM/blob/main/preview.png)
 
 ## About
